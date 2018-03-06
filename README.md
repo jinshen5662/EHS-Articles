@@ -1,12 +1,17 @@
 # EHS-Articles
 Recommended articles related to EHS topic
 
-Format：
+# Format：
 Title + Author + Link
 Recommend reason （Brief Introduction & Key Takeaways）
 
-Environmental
+# Resource
 
-Safety
+EHS Today 专栏
+Terry L. Mathis http://www.ehstoday.com/author/terry-l-mathis #Safety Culture
 
-IH
+# Environmental
+
+# Safety
+
+# IH
